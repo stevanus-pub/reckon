@@ -2,6 +2,10 @@
 
 Searching sub texts in text and submitting the search result to API.
 
+## Installation
+
+Built with .NET SDK 8.0.302: https://github.com/dotnet/core/blob/main/release-notes/8.0/8.0.6/8.0.302.md
+
 ## API
 
 There are 3 API endpoints viewable through Swagger UI when the API project is launch (http://localhost:9000/swagger/index.html).
